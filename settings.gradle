@@ -1,0 +1,2 @@
+include ':app', ':core', ':uikit'
+rootProject.name='BaseCap'
